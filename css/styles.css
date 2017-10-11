@@ -36,3 +36,33 @@ body {
 .navbar-inverse {
     background-color: #512DA8;
 }
+
+.reserve {
+    background-color: #0066ff;
+    color: white;
+    border: 1px border-style #0066ff;
+    border-radius: 5px;
+}
+
+a:hover {
+    text-decoration-style: none;
+    text-decoration: none;
+}
+
+#reserve {
+    background-color: #1a75ff;
+    font-weight: normal;
+    color: white;
+    border-color: #1a75ff;
+    border-radius: 5px;
+    box-shadow: #1a75ff;
+    width: 100px;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+    padding : 10px;
+}
